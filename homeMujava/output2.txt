@@ -1,0 +1,575 @@
+BubbleSortTest
+
+
+======================================== Generating Original Test Results ========================================
+{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+
+
+======================================== Executing Mutants ========================================
+test report: {testBackPack_Solution2=, testBackPack_Solution1=}
+mutant report: {}
+[Notice] There are no mutants to apply
+
+
+======================================== Executing Mutants ========================================
+test report: {testBackPack_Solution2=, testBackPack_Solution1=}
+mutant report: {}
+
+
+======================================== Executing Mutants ========================================
+  AOIS_1{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_10{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_11{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_12{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_13{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_14{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_15{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_16{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_17{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_18{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_19{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_2{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_20{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_21{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_22{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_23{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_24{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_25{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_26{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_27{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_28{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_29{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_3{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_30{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_31{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_32{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_33{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_34{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_35{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_36{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_37{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_38{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_39{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_4{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_40{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_41{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_42{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_43{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_44{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_45{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_46{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_47{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_48{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_49{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_5{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_50{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_51{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_52{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_53{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_54{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_55{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_56{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_57{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_58{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_59{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_6{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_60{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_61{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_62{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_63{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_64{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_65{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_66{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_67{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_68{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_69{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_7{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_70{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_71{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_72{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_73{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_74{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_75{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_76{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_77{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_78{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_79{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_8{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_80{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_81{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_82{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_83{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_84{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_85{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_86{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_87{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_88{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_89{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_9{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_90{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_91{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_92{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_93{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_94{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_95{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_96{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIU_1{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIU_2{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIU_3{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIU_4{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIU_5{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIU_6{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIU_7{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIU_8{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_1{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_10{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_11{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_12{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_13{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_14{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_15{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_16{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_17{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_18{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_19{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_2{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_20{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_21{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_22{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_23{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_24{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_25{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_26{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_27{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_28{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_29{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_3{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_30{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_31{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_32{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_33{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_34{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_35{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_36{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_37{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_38{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_39{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_4{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_40{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_41{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_42{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_43{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_44{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_45{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_46{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_47{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_48{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_49{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_5{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_50{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_51{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_52{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_53{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_54{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_55{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_56{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_57{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_58{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_59{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_6{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_60{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_61{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_62{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_63{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_64{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_65{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_66{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_67{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_68{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_69{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_7{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_70{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_71{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_72{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_73{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_74{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_75{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_76{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_77{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_78{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_79{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_8{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_80{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_9{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORS_1{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORS_2{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORS_3{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORS_4{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  CDL_1{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  CDL_10{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  CDL_11{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  CDL_12{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  CDL_13{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  CDL_14{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  CDL_15{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  CDL_16{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  CDL_2{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  CDL_3{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  CDL_4{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  CDL_5{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  CDL_6{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  CDL_7{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  CDL_8{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  CDL_9{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  COI_1{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  COI_2{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  COI_3{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  COI_4{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  COI_5{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  COI_6{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  LOI_1{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  LOI_10{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  LOI_11{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  LOI_12{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  LOI_14{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  LOI_15{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  LOI_17{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  LOI_18{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  LOI_19{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  LOI_2{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  LOI_20{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  LOI_21{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  LOI_22{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  LOI_23{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  LOI_24{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  LOI_25{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  LOI_26{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  LOI_27{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  LOI_28{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  LOI_29{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  LOI_3{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  LOI_30{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  LOI_31{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  LOI_32{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  LOI_33{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  LOI_34{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  LOI_35{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  LOI_36{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  LOI_37{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  LOI_38{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  LOI_4{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  LOI_6{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  LOI_7{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  LOI_8{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_1{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_10{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_11{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_15{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_16{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_2{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_20{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_21{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_25{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_26{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_29{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_3{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_30{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_31{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_32{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_33{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_34{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_35{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_36{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_37{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_38{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_39{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_4{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_40{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_43{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_44{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_45{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_46{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_47{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_48{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_49{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_5{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_50{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_51{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_52{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_53{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_54{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_55{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_56{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_6{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ROR_1{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ROR_10{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ROR_11{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ROR_12{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ROR_15{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ROR_16{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ROR_17{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ROR_18{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ROR_19{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ROR_2{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ROR_22{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ROR_23{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ROR_24{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ROR_25{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ROR_26{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ROR_27{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ROR_29{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ROR_3{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ROR_30{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ROR_31{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ROR_32{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ROR_33{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ROR_34{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ROR_35{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ROR_36{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ROR_37{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ROR_38{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ROR_39{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ROR_4{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ROR_40{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ROR_41{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ROR_42{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ROR_5{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ROR_8{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ROR_9{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  SDL_1{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  SDL_10{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  SDL_12{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  SDL_13{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  SDL_14{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  SDL_15{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  SDL_16{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  SDL_17{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  SDL_18{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  SDL_19{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  SDL_2{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  SDL_20{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  SDL_21{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  SDL_3{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  SDL_4{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  SDL_6{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  SDL_7{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  SDL_9{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  VDL_1{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  VDL_11{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  VDL_12{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  VDL_14{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  VDL_15{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  VDL_18{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  VDL_19{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  VDL_2{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  VDL_20{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  VDL_21{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  VDL_22{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  VDL_23{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  VDL_24{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  VDL_25{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  VDL_27{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  VDL_28{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  VDL_29{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  VDL_3{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  VDL_30{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  VDL_31{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  VDL_32{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  VDL_33{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  VDL_34{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  VDL_35{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  VDL_5{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  VDL_6{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  VDL_8{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  VDL_9{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+test report: {testBackPack_Solution2=, testBackPack_Solution1=}
+mutant report: {VDL_12=, COI_6=, VDL_11=, AORB_78=, COI_3=, AORB_79=, COI_2=, AORB_76=, COI_5=, VDL_14=, AORB_77=, COI_4=, VDL_15=, VDL_18=, VDL_19=, ODL_40=, ODL_43=, ODL_45=, ODL_44=, COI_1=, ODL_47=, ODL_46=, ODL_49=, ODL_48=, VDL_20=, AORB_80=, AORB_69=, AORB_67=, AORB_68=, AORB_65=, AORB_66=, LOI_29=, LOI_36=, LOI_37=, LOI_38=, LOI_32=, ODL_30=, LOI_33=, LOI_34=, ODL_32=, LOI_35=, ODL_31=, AORB_74=, ODL_34=, AORB_75=, ODL_33=, AORB_72=, LOI_30=, ODL_36=, AORB_73=, LOI_31=, ODL_35=, AORB_70=, ODL_38=, AORB_71=, ODL_37=, ODL_39=, VDL_34=, VDL_35=, AORB_58=, VDL_32=, AORB_59=, VDL_33=, AORB_56=, AORB_57=, AORB_54=, AORB_55=, AORB_63=, AORB_64=, AORB_61=, AORB_62=, AORB_60=, AORB_49=, VDL_23=, VDL_24=, AORB_47=, VDL_21=, AORB_48=, VDL_22=, AORB_45=, VDL_27=, AORB_46=, VDL_28=, AORB_43=, VDL_25=, AORB_44=, AOIU_3=, AOIU_4=, AOIU_1=, VDL_29=, AOIU_2=, AORB_9=, ODL_50=, AOIU_7=, ODL_52=, AOIU_8=, ODL_51=, AOIU_5=, ODL_54=, AOIU_6=, ODL_53=, AORB_3=, AORB_52=, ODL_56=, AORB_4=, AORB_53=, ODL_55=, AORB_1=, AORB_50=, AORB_2=, AORB_51=, AORB_7=, VDL_30=, AORB_8=, VDL_31=, AORB_5=, AORB_6=, AOIS_19=, AORB_38=, ROR_2=, AOIS_18=, AORB_39=, ROR_3=, AOIS_17=, AORB_36=, ROR_16=, ROR_4=, AOIS_16=, AORB_37=, ROR_15=, ROR_5=, AOIS_15=, AORB_34=, ROR_10=, AOIS_14=, AORB_35=, AOIS_13=, AORB_32=, ROR_12=, ROR_8=, AOIS_12=, AORB_33=, ROR_11=, ROR_9=, AOIS_11=, AOIS_10=, ROR_1=, AORB_41=, AORB_42=, AORB_40=, ROR_18=, ROR_17=, ROR_19=, AORB_27=, AORB_28=, AORB_25=, AORB_26=, AORB_23=, AORB_24=, AORB_21=, AORB_22=, AORB_29=, AORB_30=, AORB_31=, AORB_16=, AORB_17=, AORB_14=, AORB_15=, AORB_12=, AORB_13=, AORB_10=, AORB_11=, AORB_18=, AORB_19=, CDL_4=, CDL_5=, CDL_6=, CDL_7=, CDL_8=, CDL_9=, ODL_21=, ODL_20=, AORB_20=, ODL_25=, ODL_26=, ODL_29=, CDL_13=, CDL_14=, CDL_11=, CDL_12=, CDL_10=, AOIS_5=, AOIS_6=, AOIS_3=, AOIS_4=, AOIS_1=, AOIS_2=, CDL_15=, CDL_16=, AOIS_9=, AOIS_7=, ODL_10=, AOIS_8=, ODL_11=, ODL_16=, ODL_15=, AOIS_59=, AOIS_58=, AOIS_57=, AOIS_56=, AOIS_55=, AOIS_54=, LOI_6=, AOIS_53=, LOI_7=, AOIS_52=, LOI_8=, AOIS_51=, LOI_1=, AOIS_50=, LOI_2=, LOI_3=, LOI_4=, AOIS_49=, AOIS_48=, AOIS_47=, ROR_42=, AOIS_46=, AOIS_45=, AOIS_44=, AOIS_43=, AOIS_42=, ROR_41=, AOIS_41=, ROR_40=, AOIS_40=, CDL_1=, CDL_2=, CDL_3=, ROR_36=, ROR_35=, SDL_12=, AOIS_39=, ROR_38=, SDL_13=, AOIS_38=, ROR_37=, SDL_14=, VDL_9=, AOIS_37=, ROR_32=, AOIS_36=, ROR_31=, AOIS_35=, ROR_34=, AOIS_34=, ROR_33=, SDL_10=, AOIS_33=, SDL_19=, AOIS_32=, VDL_3=, AOIS_31=, ROR_30=, VDL_2=, AOIS_30=, VDL_1=, SDL_15=, VDL_8=, SDL_16=, SDL_17=, VDL_6=, SDL_18=, VDL_5=, ROR_39=, ROR_25=, AOIS_29=, ROR_24=, AOIS_28=, ROR_27=, AOIS_27=, ROR_26=, AOIS_26=, AOIS_25=, AOIS_24=, ROR_23=, SDL_20=, AOIS_23=, ROR_22=, SDL_21=, AOIS_22=, AOIS_21=, AOIS_20=, ODL_1=, ODL_3=, ODL_2=, ODL_5=, ODL_4=, ODL_6=, ROR_29=, AORS_2=, AORS_3=, AOIS_96=, AORS_1=, AOIS_95=, AOIS_94=, AOIS_93=, AORS_4=, AOIS_92=, SDL_4=, SDL_7=, SDL_6=, SDL_9=, AOIS_89=, AOIS_88=, AOIS_87=, AOIS_86=, AOIS_85=, AOIS_84=, AOIS_83=, AOIS_82=, AOIS_81=, AOIS_91=, AOIS_90=, SDL_1=, SDL_3=, SDL_2=, AOIS_79=, AOIS_78=, AOIS_77=, AOIS_76=, AOIS_75=, AOIS_74=, AOIS_73=, LOI_18=, AOIS_72=, LOI_19=, AOIS_71=, AOIS_70=, AOIS_80=, LOI_25=, LOI_26=, LOI_27=, LOI_28=, LOI_21=, LOI_22=, LOI_23=, LOI_24=, LOI_20=, AOIS_69=, AOIS_68=, AOIS_67=, AOIS_66=, AOIS_65=, AOIS_64=, AOIS_63=, AOIS_62=, AOIS_61=, AOIS_60=, LOI_14=, LOI_15=, LOI_17=, LOI_10=, LOI_11=, LOI_12=}
+MutantsViewerPanel.mList_mouseClicked - mutant_log != null
+MutantsViewerPanel.getMutatedContent --- start_index =6 : end_index =9
+MutantsViewerPanel.mList_mouseClicked - mutant_log != null
+MutantsViewerPanel.getMutatedContent --- start_index =7 : end_index =10
+MutantsViewerPanel.mList_mouseClicked - mutant_log != null
+MutantsViewerPanel.getMutatedContent --- start_index =7 : end_index =10
+MutantsViewerPanel.mList_mouseClicked - mutant_log != null
+MutantsViewerPanel.getMutatedContent --- start_index =7 : end_index =10
+MutantsViewerPanel.mList_mouseClicked - mutant_log != null
+MutantsViewerPanel.getMutatedContent --- start_index =7 : end_index =10
+MutantsViewerPanel.mList_mouseClicked - mutant_log != null
+MutantsViewerPanel.getMutatedContent --- start_index =7 : end_index =10
+MutantsViewerPanel.mList_mouseClicked - mutant_log != null
+MutantsViewerPanel.getMutatedContent --- start_index =7 : end_index =10
+MutantsViewerPanel.mList_mouseClicked - mutant_log != null
+MutantsViewerPanel.getMutatedContent --- start_index =7 : end_index =10
+MutantsViewerPanel.mList_mouseClicked - mutant_log != null
+MutantsViewerPanel.getMutatedContent --- start_index =7 : end_index =10
+MutantsViewerPanel.mList_mouseClicked - mutant_log != null
+MutantsViewerPanel.getMutatedContent --- start_index =7 : end_index =10
+MutantsViewerPanel.mList_mouseClicked - mutant_log != null
+MutantsViewerPanel.getMutatedContent --- start_index =7 : end_index =10
+MutantsViewerPanel.mList_mouseClicked - mutant_log != null
+MutantsViewerPanel.getMutatedContent --- start_index =6 : end_index =9
+MutantsViewerPanel.mList_mouseClicked - mutant_log != null
+MutantsViewerPanel.getMutatedContent --- start_index =7 : end_index =10
+MutantsViewerPanel.mList_mouseClicked - mutant_log != null
+MutantsViewerPanel.getMutatedContent --- start_index =7 : end_index =10
+MutantsViewerPanel.mList_mouseClicked - mutant_log != null
+MutantsViewerPanel.getMutatedContent --- start_index =7 : end_index =10
+MutantsViewerPanel.mList_mouseClicked - mutant_log != null
+MutantsViewerPanel.getMutatedContent --- start_index =7 : end_index =10
+MutantsViewerPanel.mList_mouseClicked - mutant_log != null
+MutantsViewerPanel.getMutatedContent --- start_index =7 : end_index =10
+MutantsViewerPanel.mList_mouseClicked - mutant_log != null
+MutantsViewerPanel.getMutatedContent --- start_index =7 : end_index =10
+MutantsViewerPanel.mList_mouseClicked - mutant_log != null
+MutantsViewerPanel.getMutatedContent --- start_index =7 : end_index =10
+MutantsViewerPanel.mList_mouseClicked - mutant_log != null
+MutantsViewerPanel.getMutatedContent --- start_index =7 : end_index =10
+MutantsViewerPanel.mList_mouseClicked - mutant_log != null
+MutantsViewerPanel.getMutatedContent --- start_index =6 : end_index =9
+MutantsViewerPanel.mList_mouseClicked - mutant_log != null
+MutantsViewerPanel.getMutatedContent --- start_index =7 : end_index =10
+BubbleSortTest
+
+
+======================================== Generating Original Test Results ========================================
+{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+
+
+======================================== Executing Mutants ========================================
+test report: {testBackPack_Solution2=, testBackPack_Solution1=}
+mutant report: {}
+[Notice] There are no mutants to apply
+
+
+======================================== Executing Mutants ========================================
+  AOIS_1{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [3]; expected:<5> but was:<6>}
+  AOIS_10{testBackPack_Solution2=testBackPack_Solution2: 29; -1, testBackPack_Solution1=testBackPack_Solution1: 21; -1}
+  AOIS_11{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [2]; expected:<2> but was:<6>}
+  AOIS_12{testBackPack_Solution2=testBackPack_Solution2: 29; -1, testBackPack_Solution1=testBackPack_Solution1: 21; -1}
+  AOIS_17{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [2]; expected:<2> but was:<6>}
+  AOIS_18{testBackPack_Solution2=testBackPack_Solution2: 29; 5, testBackPack_Solution1=testBackPack_Solution1: 21; 5}
+  AOIS_19{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [2]; expected:<2> but was:<6>}
+  AOIS_2{testBackPack_Solution2=testBackPack_Solution2: 29; 5, testBackPack_Solution1=testBackPack_Solution1: 21; 5}
+  AOIS_20{testBackPack_Solution2=testBackPack_Solution2: 29; 5, testBackPack_Solution1=testBackPack_Solution1: 21; 5}
+  AOIS_21{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [2]; expected:<2> but was:<6>}
+  AOIS_22{testBackPack_Solution2=testBackPack_Solution2: 29; -1, testBackPack_Solution1=testBackPack_Solution1: 21; -1}
+  AOIS_23{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+  AOIS_24{testBackPack_Solution2=testBackPack_Solution2: 29; -1, testBackPack_Solution1=testBackPack_Solution1: 21; -1}
+  AOIS_25{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+  AOIS_26 time_out: more than 5000 seconds
+  AOIS_27{testBackPack_Solution2=testBackPack_Solution2: 29; 5, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+  AOIS_28 time_out: more than 5000 seconds
+  AOIS_29{testBackPack_Solution2=testBackPack_Solution2: 29; 5, testBackPack_Solution1=testBackPack_Solution1: 21; 5}
+  AOIS_3{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [3]; expected:<5> but was:<6>}
+  AOIS_30 time_out: more than 5000 seconds
+  AOIS_31{testBackPack_Solution2=testBackPack_Solution2: 29; 5, testBackPack_Solution1=testBackPack_Solution1: 21; 5}
+  AOIS_32 time_out: more than 5000 seconds
+  AOIS_33{testBackPack_Solution2=testBackPack_Solution2: 29; 5, testBackPack_Solution1=testBackPack_Solution1: 21; 5}
+  AOIS_34 time_out: more than 5000 seconds
+  AOIS_35{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [3]; expected:<2> but was:<3>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [4]; expected:<6> but was:<9>}
+  AOIS_36{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [3]; expected:<2> but was:<1>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [3]; expected:<5> but was:<4>}
+  AOIS_37{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_38{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AOIS_4{testBackPack_Solution2=testBackPack_Solution2: 29; 5, testBackPack_Solution1=testBackPack_Solution1: 21; 5}
+  AOIS_9{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [2]; expected:<2> but was:<6>}
+  AOIU_1{testBackPack_Solution2=testBackPack_Solution2: 29; -3, testBackPack_Solution1=testBackPack_Solution1: 21; -1}
+  AOIU_2{testBackPack_Solution2=testBackPack_Solution2: 29; -2, testBackPack_Solution1=testBackPack_Solution1: 21; -1}
+  AOIU_3{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [3]; expected:<2> but was:<-2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [0]; expected:<1> but was:<-6>}
+  AORB_1{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_10{testBackPack_Solution2=testBackPack_Solution2: 29; 5, testBackPack_Solution1=testBackPack_Solution1: 21; 5}
+  AORB_11{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+  AORB_12{testBackPack_Solution2=testBackPack_Solution2: 29; 5, testBackPack_Solution1=testBackPack_Solution1: 21; 5}
+  AORB_13{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+  AORB_14{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+  AORB_15{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [1]; expected:<0> but was:<1>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<5>}
+  AORB_16{testBackPack_Solution2=testBackPack_Solution2: 29; -1, testBackPack_Solution1=testBackPack_Solution1: 21; -1}
+  AORB_17{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+  AORB_18{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+  AORB_19{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [1]; expected:<0> but was:<-2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<1>}
+  AORB_2{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_20{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<1>}
+  AORB_21{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+  AORB_22{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+  AORB_23{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [0]; expected:<-2> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [0]; expected:<1> but was:<6>}
+  AORB_24{testBackPack_Solution2=testBackPack_Solution2: 29; -1, testBackPack_Solution1=testBackPack_Solution1: 21; -1}
+  AORB_3{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+  AORB_4{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  AORB_5{testBackPack_Solution2=testBackPack_Solution2: 29; 5, testBackPack_Solution1=testBackPack_Solution1: 21; 5}
+  AORB_6{testBackPack_Solution2=testBackPack_Solution2: 29; / by zero, testBackPack_Solution1=testBackPack_Solution1: 21; / by zero}
+  AORB_7{testBackPack_Solution2=testBackPack_Solution2: 29; / by zero, testBackPack_Solution1=testBackPack_Solution1: 21; / by zero}
+  AORB_8{testBackPack_Solution2=testBackPack_Solution2: 29; 5, testBackPack_Solution1=testBackPack_Solution1: 21; 5}
+  AORB_9{testBackPack_Solution2=testBackPack_Solution2: 29; 5, testBackPack_Solution1=testBackPack_Solution1: 21; 5}
+  AORS_1{testBackPack_Solution2=testBackPack_Solution2: 29; 5, testBackPack_Solution1=testBackPack_Solution1: 21; 5}
+  AORS_2{testBackPack_Solution2=testBackPack_Solution2: 29; -1, testBackPack_Solution1=testBackPack_Solution1: 21; -1}
+  CDL_1{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  CDL_2{testBackPack_Solution2=testBackPack_Solution2: 29; 5, testBackPack_Solution1=testBackPack_Solution1: 21; 5}
+  CDL_3{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+  CDL_4{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+  CDL_5{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+  COI_1{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+  COI_2{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+  COI_3{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [0]; expected:<-2> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [0]; expected:<1> but was:<6>}
+  LOI_1 time_out: more than 5000 seconds
+  LOI_10{testBackPack_Solution2=testBackPack_Solution2: 29; -4, testBackPack_Solution1=testBackPack_Solution1: 21; -2}
+  LOI_11{testBackPack_Solution2=testBackPack_Solution2: 29; -4, testBackPack_Solution1=testBackPack_Solution1: 21; -2}
+  LOI_12{testBackPack_Solution2=testBackPack_Solution2: 29; -3, testBackPack_Solution1=testBackPack_Solution1: 21; -1}
+  LOI_13{testBackPack_Solution2=testBackPack_Solution2: 29; -3, testBackPack_Solution1=testBackPack_Solution1: 21; -1}
+  LOI_14{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [3]; expected:<2> but was:<-3>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [0]; expected:<1> but was:<-7>}
+  LOI_2{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+  LOI_4{testBackPack_Solution2=testBackPack_Solution2: 29; 5, testBackPack_Solution1=testBackPack_Solution1: 21; 5}
+  LOI_5{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+  LOI_6{testBackPack_Solution2=testBackPack_Solution2: 29; 5, testBackPack_Solution1=testBackPack_Solution1: 21; 5}
+  LOI_8{testBackPack_Solution2=testBackPack_Solution2: 29; -1, testBackPack_Solution1=testBackPack_Solution1: 21; -1}
+  LOI_9{testBackPack_Solution2=testBackPack_Solution2: 29; -1, testBackPack_Solution1=testBackPack_Solution1: 21; -1}
+  ODL_1{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_13{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+  ODL_14{testBackPack_Solution2=pass, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+  ODL_17{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+  ODL_18{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<0>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+  ODL_19{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+  ODL_2{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=pass}
+  ODL_20{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [1]; expected:<0> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+  ODL_6{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ODL_7{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [2]; expected:<2> but was:<6>}
+  ODL_8{testBackPack_Solution2=testBackPack_Solution2: 29; 5, testBackPack_Solution1=testBackPack_Solution1: 21; 5}
+  ODL_9{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+  ROR_1{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+  ROR_10{testBackPack_Solution2=testBackPack_Solution2: 29; 5, testBackPack_Solution1=testBackPack_Solution1: 21; 5}
+  ROR_11{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+  ROR_12{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ROR_13{testBackPack_Solution2=testBackPack_Solution2: 29; 5, testBackPack_Solution1=testBackPack_Solution1: 21; 5}
+  ROR_15{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [0]; expected:<-2> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [0]; expected:<1> but was:<6>}
+  ROR_16{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [0]; expected:<-2> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [0]; expected:<1> but was:<6>}
+  ROR_17{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ROR_18{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+  ROR_19{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [0]; expected:<-2> but was:<1>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [0]; expected:<1> but was:<5>}
+  ROR_2{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+  ROR_20{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [0]; expected:<-2> but was:<1>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [0]; expected:<1> but was:<5>}
+  ROR_21{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+  ROR_3{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ROR_4{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+  ROR_5{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  ROR_8{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+  ROR_9{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+  SDL_1{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+  SDL_10{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [3]; expected:<2> but was:<1>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [3]; expected:<5> but was:<2>}
+  SDL_11{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [0]; expected:<-2> but was:<1>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [0]; expected:<1> but was:<5>}
+  SDL_2{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+  SDL_4{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  SDL_5{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+  SDL_6{testBackPack_Solution2=testBackPack_Solution2: 29; 5, testBackPack_Solution1=testBackPack_Solution1: 21; 5}
+  SDL_7 time_out: more than 5000 seconds
+  SDL_9{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+  VDL_10{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [1]; expected:<0> but was:<2>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+  VDL_2 time_out: more than 5000 seconds
+  VDL_3{testBackPack_Solution2=pass, testBackPack_Solution1=pass}
+  VDL_5 time_out: more than 5000 seconds
+  VDL_6{testBackPack_Solution2=pass, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+  VDL_9{testBackPack_Solution2=testBackPack_Solution2: 30; arrays first differed at element [2]; expected:<1> but was:<0>, testBackPack_Solution1=testBackPack_Solution1: 22; arrays first differed at element [1]; expected:<2> but was:<6>}
+test report: {testBackPack_Solution2=AOIS_1, AOIS_10, AOIS_11, AOIS_12, AOIS_17, AOIS_18, AOIS_19, AOIS_2, AOIS_20, AOIS_21, AOIS_22, AOIS_23, AOIS_24, AOIS_25, AOIS_26, AOIS_27, AOIS_28, AOIS_29, AOIS_3, AOIS_30, AOIS_31, AOIS_32, AOIS_33, AOIS_34, AOIS_35, AOIS_36, AOIS_4, AOIS_9, AOIU_1, AOIU_2, AOIU_3, AORB_10, AORB_11, AORB_12, AORB_13, AORB_14, AORB_15, AORB_16, AORB_17, AORB_18, AORB_19, AORB_20, AORB_21, AORB_22, AORB_23, AORB_24, AORB_3, AORB_5, AORB_6, AORB_7, AORB_8, AORB_9, AORS_1, AORS_2, CDL_2, CDL_3, CDL_4, CDL_5, COI_1, COI_2, COI_3, LOI_1, LOI_10, LOI_11, LOI_12, LOI_13, LOI_14, LOI_2, LOI_4, LOI_5, LOI_6, LOI_8, LOI_9, ODL_13, ODL_17, ODL_18, ODL_19, ODL_2, ODL_20, ODL_7, ODL_8, ODL_9, ROR_1, ROR_10, ROR_11, ROR_13, ROR_15, ROR_16, ROR_18, ROR_19, ROR_2, ROR_20, ROR_21, ROR_4, ROR_8, ROR_9, SDL_1, SDL_10, SDL_11, SDL_2, SDL_5, SDL_6, SDL_7, SDL_9, VDL_10, VDL_2, VDL_5, VDL_9, testBackPack_Solution1=AOIS_1, AOIS_10, AOIS_11, AOIS_12, AOIS_17, AOIS_18, AOIS_19, AOIS_2, AOIS_20, AOIS_21, AOIS_22, AOIS_23, AOIS_24, AOIS_25, AOIS_26, AOIS_27, AOIS_28, AOIS_29, AOIS_3, AOIS_30, AOIS_31, AOIS_32, AOIS_33, AOIS_34, AOIS_35, AOIS_36, AOIS_4, AOIS_9, AOIU_1, AOIU_2, AOIU_3, AORB_10, AORB_11, AORB_12, AORB_13, AORB_14, AORB_15, AORB_16, AORB_17, AORB_18, AORB_19, AORB_20, AORB_21, AORB_22, AORB_23, AORB_24, AORB_3, AORB_5, AORB_6, AORB_7, AORB_8, AORB_9, AORS_1, AORS_2, CDL_2, CDL_3, CDL_4, CDL_5, COI_1, COI_2, COI_3, LOI_1, LOI_10, LOI_11, LOI_12, LOI_13, LOI_14, LOI_2, LOI_4, LOI_5, LOI_6, LOI_8, LOI_9, ODL_13, ODL_14, ODL_17, ODL_18, ODL_19, ODL_20, ODL_7, ODL_8, ODL_9, ROR_1, ROR_10, ROR_11, ROR_13, ROR_15, ROR_16, ROR_18, ROR_19, ROR_2, ROR_20, ROR_21, ROR_4, ROR_8, ROR_9, SDL_1, SDL_10, SDL_11, SDL_2, SDL_5, SDL_6, SDL_7, SDL_9, VDL_10, VDL_2, VDL_5, VDL_6, VDL_9}
+mutant report: {VDL_10=testBackPack_Solution1, testBackPack_Solution2, COI_3=testBackPack_Solution1, testBackPack_Solution2, COI_2=testBackPack_Solution1, testBackPack_Solution2, LOI_5=testBackPack_Solution1, testBackPack_Solution2, LOI_6=testBackPack_Solution1, testBackPack_Solution2, LOI_8=testBackPack_Solution1, testBackPack_Solution2, LOI_1=testBackPack_Solution1, testBackPack_Solution2, LOI_2=testBackPack_Solution1, testBackPack_Solution2, LOI_4=testBackPack_Solution1, testBackPack_Solution2, COI_1=testBackPack_Solution1, testBackPack_Solution2, CDL_1=, CDL_2=testBackPack_Solution1, testBackPack_Solution2, CDL_3=testBackPack_Solution1, testBackPack_Solution2, LOI_9=testBackPack_Solution1, testBackPack_Solution2, SDL_11=testBackPack_Solution1, testBackPack_Solution2, AOIS_38=, VDL_9=testBackPack_Solution1, testBackPack_Solution2, AOIS_37=, AOIS_36=testBackPack_Solution1, testBackPack_Solution2, AOIS_35=testBackPack_Solution1, testBackPack_Solution2, AOIS_34=testBackPack_Solution1, testBackPack_Solution2, SDL_10=testBackPack_Solution1, testBackPack_Solution2, AOIS_33=testBackPack_Solution1, testBackPack_Solution2, AOIS_32=testBackPack_Solution1, testBackPack_Solution2, VDL_3=, AOIS_31=testBackPack_Solution1, testBackPack_Solution2, VDL_2=testBackPack_Solution1, testBackPack_Solution2, AOIS_30=testBackPack_Solution1, testBackPack_Solution2, VDL_6=testBackPack_Solution1, VDL_5=testBackPack_Solution1, testBackPack_Solution2, AOIS_29=testBackPack_Solution1, testBackPack_Solution2, AOIS_28=testBackPack_Solution1, testBackPack_Solution2, AOIS_27=testBackPack_Solution1, testBackPack_Solution2, AOIS_26=testBackPack_Solution1, testBackPack_Solution2, ROR_21=testBackPack_Solution1, testBackPack_Solution2, AOIS_25=testBackPack_Solution1, testBackPack_Solution2, ROR_20=testBackPack_Solution1, testBackPack_Solution2, AOIS_24=testBackPack_Solution1, testBackPack_Solution2, AOIS_23=testBackPack_Solution1, testBackPack_Solution2, AOIS_22=testBackPack_Solution1, testBackPack_Solution2, AOIU_3=testBackPack_Solution1, testBackPack_Solution2, ODL_9=testBackPack_Solution1, testBackPack_Solution2, AOIS_21=testBackPack_Solution1, testBackPack_Solution2, ODL_8=testBackPack_Solution1, testBackPack_Solution2, AOIS_20=testBackPack_Solution1, testBackPack_Solution2, AOIU_1=testBackPack_Solution1, testBackPack_Solution2, AOIU_2=testBackPack_Solution1, testBackPack_Solution2, ODL_1=, AORB_9=testBackPack_Solution1, testBackPack_Solution2, ODL_2=testBackPack_Solution2, ODL_7=testBackPack_Solution1, testBackPack_Solution2, ODL_6=, AORB_3=testBackPack_Solution1, testBackPack_Solution2, AORB_4=, AORB_1=, AORB_2=, AORB_7=testBackPack_Solution1, testBackPack_Solution2, AORB_8=testBackPack_Solution1, testBackPack_Solution2, AORB_5=testBackPack_Solution1, testBackPack_Solution2, AORB_6=testBackPack_Solution1, testBackPack_Solution2, AOIS_19=testBackPack_Solution1, testBackPack_Solution2, ROR_2=testBackPack_Solution1, testBackPack_Solution2, AOIS_18=testBackPack_Solution1, testBackPack_Solution2, ROR_13=testBackPack_Solution1, testBackPack_Solution2, ROR_3=, AOIS_17=testBackPack_Solution1, testBackPack_Solution2, ROR_16=testBackPack_Solution1, testBackPack_Solution2, ROR_4=testBackPack_Solution1, testBackPack_Solution2, ROR_15=testBackPack_Solution1, testBackPack_Solution2, ROR_5=, ROR_10=testBackPack_Solution1, testBackPack_Solution2, ROR_12=, ROR_8=testBackPack_Solution1, testBackPack_Solution2, AOIS_12=testBackPack_Solution1, testBackPack_Solution2, ROR_11=testBackPack_Solution1, testBackPack_Solution2, ROR_9=testBackPack_Solution1, testBackPack_Solution2, AOIS_11=testBackPack_Solution1, testBackPack_Solution2, AORS_2=testBackPack_Solution1, testBackPack_Solution2, AOIS_10=testBackPack_Solution1, testBackPack_Solution2, AORS_1=testBackPack_Solution1, testBackPack_Solution2, ROR_1=testBackPack_Solution1, testBackPack_Solution2, ROR_18=testBackPack_Solution1, testBackPack_Solution2, ROR_17=, ROR_19=testBackPack_Solution1, testBackPack_Solution2, SDL_5=testBackPack_Solution1, testBackPack_Solution2, SDL_4=, SDL_7=testBackPack_Solution1, testBackPack_Solution2, SDL_6=testBackPack_Solution1, testBackPack_Solution2, AORB_23=testBackPack_Solution1, testBackPack_Solution2, SDL_9=testBackPack_Solution1, testBackPack_Solution2, AORB_24=testBackPack_Solution1, testBackPack_Solution2, AORB_21=testBackPack_Solution1, testBackPack_Solution2, AORB_22=testBackPack_Solution1, testBackPack_Solution2, SDL_1=testBackPack_Solution1, testBackPack_Solution2, SDL_2=testBackPack_Solution1, testBackPack_Solution2, AORB_16=testBackPack_Solution1, testBackPack_Solution2, AORB_17=testBackPack_Solution1, testBackPack_Solution2, AORB_14=testBackPack_Solution1, testBackPack_Solution2, AORB_15=testBackPack_Solution1, testBackPack_Solution2, AORB_12=testBackPack_Solution1, testBackPack_Solution2, AORB_13=testBackPack_Solution1, testBackPack_Solution2, AORB_10=testBackPack_Solution1, testBackPack_Solution2, AORB_11=testBackPack_Solution1, testBackPack_Solution2, AORB_18=testBackPack_Solution1, testBackPack_Solution2, AORB_19=testBackPack_Solution1, testBackPack_Solution2, CDL_4=testBackPack_Solution1, testBackPack_Solution2, CDL_5=testBackPack_Solution1, testBackPack_Solution2, ODL_20=testBackPack_Solution1, testBackPack_Solution2, AORB_20=testBackPack_Solution1, testBackPack_Solution2, ODL_19=testBackPack_Solution1, testBackPack_Solution2, AOIS_3=testBackPack_Solution1, testBackPack_Solution2, AOIS_4=testBackPack_Solution1, testBackPack_Solution2, AOIS_1=testBackPack_Solution1, testBackPack_Solution2, AOIS_2=testBackPack_Solution1, testBackPack_Solution2, LOI_14=testBackPack_Solution1, testBackPack_Solution2, AOIS_9=testBackPack_Solution1, testBackPack_Solution2, LOI_10=testBackPack_Solution1, testBackPack_Solution2, LOI_11=testBackPack_Solution1, testBackPack_Solution2, LOI_12=testBackPack_Solution1, testBackPack_Solution2, LOI_13=testBackPack_Solution1, testBackPack_Solution2, ODL_14=testBackPack_Solution1, ODL_13=testBackPack_Solution1, testBackPack_Solution2, ODL_18=testBackPack_Solution1, testBackPack_Solution2, ODL_17=testBackPack_Solution1, testBackPack_Solution2}
+
+
+======================================== Executing Mutants ========================================
+test report: {testBackPack_Solution2=AOIS_1, AOIS_10, AOIS_11, AOIS_12, AOIS_17, AOIS_18, AOIS_19, AOIS_2, AOIS_20, AOIS_21, AOIS_22, AOIS_23, AOIS_24, AOIS_25, AOIS_26, AOIS_27, AOIS_28, AOIS_29, AOIS_3, AOIS_30, AOIS_31, AOIS_32, AOIS_33, AOIS_34, AOIS_35, AOIS_36, AOIS_4, AOIS_9, AOIU_1, AOIU_2, AOIU_3, AORB_10, AORB_11, AORB_12, AORB_13, AORB_14, AORB_15, AORB_16, AORB_17, AORB_18, AORB_19, AORB_20, AORB_21, AORB_22, AORB_23, AORB_24, AORB_3, AORB_5, AORB_6, AORB_7, AORB_8, AORB_9, AORS_1, AORS_2, CDL_2, CDL_3, CDL_4, CDL_5, COI_1, COI_2, COI_3, LOI_1, LOI_10, LOI_11, LOI_12, LOI_13, LOI_14, LOI_2, LOI_4, LOI_5, LOI_6, LOI_8, LOI_9, ODL_13, ODL_17, ODL_18, ODL_19, ODL_2, ODL_20, ODL_7, ODL_8, ODL_9, ROR_1, ROR_10, ROR_11, ROR_13, ROR_15, ROR_16, ROR_18, ROR_19, ROR_2, ROR_20, ROR_21, ROR_4, ROR_8, ROR_9, SDL_1, SDL_10, SDL_11, SDL_2, SDL_5, SDL_6, SDL_7, SDL_9, VDL_10, VDL_2, VDL_5, VDL_9, testBackPack_Solution1=AOIS_1, AOIS_10, AOIS_11, AOIS_12, AOIS_17, AOIS_18, AOIS_19, AOIS_2, AOIS_20, AOIS_21, AOIS_22, AOIS_23, AOIS_24, AOIS_25, AOIS_26, AOIS_27, AOIS_28, AOIS_29, AOIS_3, AOIS_30, AOIS_31, AOIS_32, AOIS_33, AOIS_34, AOIS_35, AOIS_36, AOIS_4, AOIS_9, AOIU_1, AOIU_2, AOIU_3, AORB_10, AORB_11, AORB_12, AORB_13, AORB_14, AORB_15, AORB_16, AORB_17, AORB_18, AORB_19, AORB_20, AORB_21, AORB_22, AORB_23, AORB_24, AORB_3, AORB_5, AORB_6, AORB_7, AORB_8, AORB_9, AORS_1, AORS_2, CDL_2, CDL_3, CDL_4, CDL_5, COI_1, COI_2, COI_3, LOI_1, LOI_10, LOI_11, LOI_12, LOI_13, LOI_14, LOI_2, LOI_4, LOI_5, LOI_6, LOI_8, LOI_9, ODL_13, ODL_14, ODL_17, ODL_18, ODL_19, ODL_20, ODL_7, ODL_8, ODL_9, ROR_1, ROR_10, ROR_11, ROR_13, ROR_15, ROR_16, ROR_18, ROR_19, ROR_2, ROR_20, ROR_21, ROR_4, ROR_8, ROR_9, SDL_1, SDL_10, SDL_11, SDL_2, SDL_5, SDL_6, SDL_7, SDL_9, VDL_10, VDL_2, VDL_5, VDL_6, VDL_9}
+mutant report: {VDL_10=testBackPack_Solution1, testBackPack_Solution2, COI_3=testBackPack_Solution1, testBackPack_Solution2, COI_2=testBackPack_Solution1, testBackPack_Solution2, LOI_5=testBackPack_Solution1, testBackPack_Solution2, LOI_6=testBackPack_Solution1, testBackPack_Solution2, LOI_8=testBackPack_Solution1, testBackPack_Solution2, LOI_1=testBackPack_Solution1, testBackPack_Solution2, LOI_2=testBackPack_Solution1, testBackPack_Solution2, LOI_4=testBackPack_Solution1, testBackPack_Solution2, COI_1=testBackPack_Solution1, testBackPack_Solution2, CDL_1=, CDL_2=testBackPack_Solution1, testBackPack_Solution2, CDL_3=testBackPack_Solution1, testBackPack_Solution2, LOI_9=testBackPack_Solution1, testBackPack_Solution2, SDL_11=testBackPack_Solution1, testBackPack_Solution2, AOIS_38=, VDL_9=testBackPack_Solution1, testBackPack_Solution2, AOIS_37=, AOIS_36=testBackPack_Solution1, testBackPack_Solution2, AOIS_35=testBackPack_Solution1, testBackPack_Solution2, AOIS_34=testBackPack_Solution1, testBackPack_Solution2, SDL_10=testBackPack_Solution1, testBackPack_Solution2, AOIS_33=testBackPack_Solution1, testBackPack_Solution2, AOIS_32=testBackPack_Solution1, testBackPack_Solution2, VDL_3=, AOIS_31=testBackPack_Solution1, testBackPack_Solution2, VDL_2=testBackPack_Solution1, testBackPack_Solution2, AOIS_30=testBackPack_Solution1, testBackPack_Solution2, VDL_6=testBackPack_Solution1, VDL_5=testBackPack_Solution1, testBackPack_Solution2, AOIS_29=testBackPack_Solution1, testBackPack_Solution2, AOIS_28=testBackPack_Solution1, testBackPack_Solution2, AOIS_27=testBackPack_Solution1, testBackPack_Solution2, AOIS_26=testBackPack_Solution1, testBackPack_Solution2, ROR_21=testBackPack_Solution1, testBackPack_Solution2, AOIS_25=testBackPack_Solution1, testBackPack_Solution2, ROR_20=testBackPack_Solution1, testBackPack_Solution2, AOIS_24=testBackPack_Solution1, testBackPack_Solution2, AOIS_23=testBackPack_Solution1, testBackPack_Solution2, AOIS_22=testBackPack_Solution1, testBackPack_Solution2, AOIU_3=testBackPack_Solution1, testBackPack_Solution2, ODL_9=testBackPack_Solution1, testBackPack_Solution2, AOIS_21=testBackPack_Solution1, testBackPack_Solution2, ODL_8=testBackPack_Solution1, testBackPack_Solution2, AOIS_20=testBackPack_Solution1, testBackPack_Solution2, AOIU_1=testBackPack_Solution1, testBackPack_Solution2, AOIU_2=testBackPack_Solution1, testBackPack_Solution2, ODL_1=, AORB_9=testBackPack_Solution1, testBackPack_Solution2, ODL_2=testBackPack_Solution2, ODL_7=testBackPack_Solution1, testBackPack_Solution2, ODL_6=, AORB_3=testBackPack_Solution1, testBackPack_Solution2, AORB_4=, AORB_1=, AORB_2=, AORB_7=testBackPack_Solution1, testBackPack_Solution2, AORB_8=testBackPack_Solution1, testBackPack_Solution2, AORB_5=testBackPack_Solution1, testBackPack_Solution2, AORB_6=testBackPack_Solution1, testBackPack_Solution2, AOIS_19=testBackPack_Solution1, testBackPack_Solution2, ROR_2=testBackPack_Solution1, testBackPack_Solution2, AOIS_18=testBackPack_Solution1, testBackPack_Solution2, ROR_13=testBackPack_Solution1, testBackPack_Solution2, ROR_3=, AOIS_17=testBackPack_Solution1, testBackPack_Solution2, ROR_16=testBackPack_Solution1, testBackPack_Solution2, ROR_4=testBackPack_Solution1, testBackPack_Solution2, ROR_15=testBackPack_Solution1, testBackPack_Solution2, ROR_5=, ROR_10=testBackPack_Solution1, testBackPack_Solution2, ROR_12=, ROR_8=testBackPack_Solution1, testBackPack_Solution2, AOIS_12=testBackPack_Solution1, testBackPack_Solution2, ROR_11=testBackPack_Solution1, testBackPack_Solution2, ROR_9=testBackPack_Solution1, testBackPack_Solution2, AOIS_11=testBackPack_Solution1, testBackPack_Solution2, AORS_2=testBackPack_Solution1, testBackPack_Solution2, AOIS_10=testBackPack_Solution1, testBackPack_Solution2, AORS_1=testBackPack_Solution1, testBackPack_Solution2, ROR_1=testBackPack_Solution1, testBackPack_Solution2, ROR_18=testBackPack_Solution1, testBackPack_Solution2, ROR_17=, ROR_19=testBackPack_Solution1, testBackPack_Solution2, SDL_5=testBackPack_Solution1, testBackPack_Solution2, SDL_4=, SDL_7=testBackPack_Solution1, testBackPack_Solution2, SDL_6=testBackPack_Solution1, testBackPack_Solution2, AORB_23=testBackPack_Solution1, testBackPack_Solution2, SDL_9=testBackPack_Solution1, testBackPack_Solution2, AORB_24=testBackPack_Solution1, testBackPack_Solution2, AORB_21=testBackPack_Solution1, testBackPack_Solution2, AORB_22=testBackPack_Solution1, testBackPack_Solution2, SDL_1=testBackPack_Solution1, testBackPack_Solution2, SDL_2=testBackPack_Solution1, testBackPack_Solution2, AORB_16=testBackPack_Solution1, testBackPack_Solution2, AORB_17=testBackPack_Solution1, testBackPack_Solution2, AORB_14=testBackPack_Solution1, testBackPack_Solution2, AORB_15=testBackPack_Solution1, testBackPack_Solution2, AORB_12=testBackPack_Solution1, testBackPack_Solution2, AORB_13=testBackPack_Solution1, testBackPack_Solution2, AORB_10=testBackPack_Solution1, testBackPack_Solution2, AORB_11=testBackPack_Solution1, testBackPack_Solution2, AORB_18=testBackPack_Solution1, testBackPack_Solution2, AORB_19=testBackPack_Solution1, testBackPack_Solution2, CDL_4=testBackPack_Solution1, testBackPack_Solution2, CDL_5=testBackPack_Solution1, testBackPack_Solution2, ODL_20=testBackPack_Solution1, testBackPack_Solution2, AORB_20=testBackPack_Solution1, testBackPack_Solution2, ODL_19=testBackPack_Solution1, testBackPack_Solution2, AOIS_3=testBackPack_Solution1, testBackPack_Solution2, AOIS_4=testBackPack_Solution1, testBackPack_Solution2, AOIS_1=testBackPack_Solution1, testBackPack_Solution2, AOIS_2=testBackPack_Solution1, testBackPack_Solution2, LOI_14=testBackPack_Solution1, testBackPack_Solution2, AOIS_9=testBackPack_Solution1, testBackPack_Solution2, LOI_10=testBackPack_Solution1, testBackPack_Solution2, LOI_11=testBackPack_Solution1, testBackPack_Solution2, LOI_12=testBackPack_Solution1, testBackPack_Solution2, LOI_13=testBackPack_Solution1, testBackPack_Solution2, ODL_14=testBackPack_Solution1, ODL_13=testBackPack_Solution1, testBackPack_Solution2, ODL_18=testBackPack_Solution1, testBackPack_Solution2, ODL_17=testBackPack_Solution1, testBackPack_Solution2}
